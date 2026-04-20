@@ -37,7 +37,7 @@
           I craft scalable, performant web applications with clean code and modern UI frameworks.<br>
           Always exploring new technologies and building projects that make a difference.
         </p>
-        <a href="https://www.linkedin.com/in/muhammad-fayyaz-ahmed-b486a33ab">
+        <a href="https://www.linkedin.com/in/fayyaz-ahmad-dev/">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
         </a>
         &nbsp;
